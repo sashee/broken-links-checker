@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
 	"bin": {
-	"unused_lambda_logs": "./index.js"
+		"broken-links-checker": "./index.js"
 	},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
